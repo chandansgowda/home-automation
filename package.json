@@ -1,0 +1,26 @@
+{
+  "name": "home-automation",
+  "version": "1.0.0",
+  "description": "6th Semester Mini Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandansgowda/home-automation.git"
+  },
+  "author": "Chandan S Gowda, Nakula M K, Faria, Mithali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandansgowda/home-automation/issues"
+  },
+  "homepage": "https://github.com/chandansgowda/home-automation#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
